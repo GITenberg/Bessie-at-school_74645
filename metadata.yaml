@@ -1,0 +1,27 @@
+_repo: Bessie-at-school_74645
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mathews, Joanna H. (Joanna Hooe)
+    birthdate: 1849
+    deathdate: 1901
+    gutenberg_agent_id: '2089'
+    url: http://www.gutenberg.org/2009/agents/2089
+description: ''
+gutenberg_issued: '2024-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74645'
+language: en
+pgterms:marc905: 20241020194250mathews
+pgterms:marc906: '1869'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bGeorge Routledge and Sons, Limited, $c1869.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Bessie at school
+url: http://www.gutenberg.org/ebooks/74645
