@@ -1,5 +1,8 @@
 _repo: Bessie-at-school_74645
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74645-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Mathews, Joanna H. (Joanna Hooe)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2089'
     url: http://www.gutenberg.org/2009/agents/2089
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74645#Bessie-at-school
 gutenberg_issued: '2024-10-27'
 gutenberg_type: Text
 identifiers:
